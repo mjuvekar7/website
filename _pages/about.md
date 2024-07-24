@@ -24,6 +24,8 @@ science.
 
 _My email._&nbsp; `[first]j (bu.edu)`
 
+_My CV._&nbsp; [Here](/assets/pdf/cv.pdf)
+
 _My academic interests._&nbsp; I am broadly interested in theoretical computer science,
 though my current work focuses on computational complexity and cryptography. My
 current projects involve approximate degree & quantum query complexity, SNARGs,
