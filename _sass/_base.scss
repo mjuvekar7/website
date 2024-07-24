@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-weight: 250;
 }
 
 hr {
@@ -507,7 +508,11 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
   }
 }
 
@@ -682,6 +687,10 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+      }
+
+      .venue {
+          font-weight: bolder;
       }
 
       .abbr {

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ BUCS
+subtitle: PhD Student @ <a href="https://www.bu.edu/cs/">BUCS</a>
 
 profile:
   align: right
@@ -14,8 +14,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Mandar, a third-year PhD student in computer science at Boston University
+originally from [Pune](https://goo.gl/maps/a8UoVyMfbH5ZY4J29), India. My PhD advisor is
+[Mark Bun](https://cs-people.bu.edu/mbun/). Before joining BU I was an
+undergrad at the University of Rochester, where I studied mathematics and computer
+science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+_My email._&nbsp; `[first]j (bu.edu)`
+
+_My academic interests._&nbsp; I am broadly interested in theoretical computer science,
+though my current work focuses on computational complexity and cryptography. My
+current projects involve approximate degree & quantum query complexity, SNARGs,
+and connections between Kolmogorov complexity and cryptography.
+
+_Other things I enjoy._&nbsp; Playing music (on a piano), listening to music, recording
+and producing music; making and drinking coffee; cooking; teaching; riding
+bikes; playing tennis.
+

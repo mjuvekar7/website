@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 3
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
@@ -111,11 +111,11 @@ pagination:
 
     {% for post in postlist %}
 
-    {% if post.external_source == blank %}
+<!-- {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-    {% endif %}
+    {% endif %} -->
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
@@ -141,13 +141,13 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
+        <!--{{ read_time }} min read &nbsp; &middot; &nbsp;-->
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
       </p>
-      <p class="post-tags">
+<!--      <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
 
@@ -172,9 +172,9 @@ pagination:
               {% endunless %}
               {% endfor %}
           {% endif %}
-    </p>
+    </p> -->
 
-{% if post.thumbnail %}
+<!--{% if post.thumbnail %}
 
 </div>
 
@@ -182,7 +182,7 @@ pagination:
     <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
-{% endif %}
+{% endif %} -->
     </li>
 
     {% endfor %}
