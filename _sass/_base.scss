@@ -23,6 +23,18 @@ strong {
   color: var(--global-text-color);
 }
 
+div.hiddenItem {
+  display: none;
+}
+
+span.toggler {
+  text-decoration: underline;
+}
+
+span.toggler:hover {
+  cursor: pointer;
+}
+
 ul > li {
     margin-bottom: 0.5rem;
 }
