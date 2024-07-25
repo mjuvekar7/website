@@ -14,10 +14,17 @@ h6,
 em,
 div,
 li,
-span,
-strong {
+span {
   color: var(--global-text-color);
   font-weight: 250;
+}
+
+strong {
+  color: var(--global-text-color);
+}
+
+ul > li {
+    margin-bottom: 0.5rem;
 }
 
 hr {
@@ -59,9 +66,8 @@ table.table a {
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
-  margin: 1.5em 0;
-  padding: 1em;
-  font-size: 1.2rem;
+  //margin: 1.5em 0;
+  padding: 0.5em 1em;
 
   p {
     margin-bottom: 0;
