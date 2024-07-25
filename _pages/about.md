@@ -24,14 +24,14 @@ science.
 
 _My email._&nbsp; `[first]j (bu.edu)`
 
-_My CV._&nbsp; [Here](/assets/pdf/cv.pdf)
+_My CV._&nbsp; [Here](assets/pdf/cv.pdf)
 
 _My academic interests._&nbsp; I am broadly interested in theoretical computer science,
 though my current work focuses on computational complexity and cryptography. My
 current projects involve approximate degree & quantum query complexity, SNARGs,
 and connections between Kolmogorov complexity and cryptography.
 
-_Other things I enjoy._&nbsp; Playing [music](/blog/2024/music/) (on a piano), listening to music, recording
+_Other things I enjoy._&nbsp; Playing [music](blog/2024/music/) (on a piano), listening to music, recording
 and producing music; making and drinking coffee; cooking; teaching; riding
 bikes; playing tennis.
 
