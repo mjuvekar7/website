@@ -226,6 +226,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - deploy.sh
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
