@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello!
 
-I am Mandar, a third-year PhD student in computer science at Boston University
+I am Mandar, a fourth-year PhD student in computer science at Boston University
 originally from [Pune](https://goo.gl/maps/a8UoVyMfbH5ZY4J29), India. My PhD advisor is
 [Mark Bun](https://cs-people.bu.edu/mbun/). Before joining BU I was an
 undergrad at the University of Rochester, where I studied mathematics and computer
