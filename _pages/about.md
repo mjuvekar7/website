@@ -26,10 +26,12 @@ _My email._&nbsp; `[first]j (bu.edu)`
 
 _My CV._&nbsp; [Here](assets/pdf/cv.pdf)
 
-_My academic interests._&nbsp; I am broadly interested in theoretical computer science,
-though my current work focuses on computational complexity and cryptography. My
-current projects involve approximate degree & quantum query complexity, SNARGs,
-and connections between Kolmogorov complexity and cryptography.
+_My academic interests._&nbsp; I am broadly interested in theoretical computer
+science, though my current work focuses on computational complexity,
+cryptography, and learning theory. My projects at the moment involve (a)
+approximate degree and quantum query and communication complexity, (b)
+connections between metacomplexity and cryptography, and (c) metacomplexity as a
+tool to get efficient learning algorithms.
 
 _Other things I enjoy._&nbsp; Playing [music](blog/2024/music/) (on a piano), listening to music, recording
 and producing music; making and drinking coffee; cooking; teaching; riding
